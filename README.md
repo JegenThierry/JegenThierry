@@ -3,7 +3,7 @@
   <p align="center" style="font-size: 150%;">
     Thierry Jegen
   </p>
-   <p align="center">
-    Master Computer Science Student
+  <p>
+    Software Developer
   </p>
 </p>
