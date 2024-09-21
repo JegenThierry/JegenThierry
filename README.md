@@ -4,6 +4,6 @@
     Thierry Jegen
   </p>
   <p>
-    Software Developer
+    I'm a Full-Stack Software Developer. With experience in both front-end and back-end development.
   </p>
 </p>
