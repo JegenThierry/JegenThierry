@@ -6,4 +6,7 @@
   <p align="center">
     I'm a Full-Stack Software Developer. With experience in both front-end and back-end development.
   </p>
+  <p align="center">
+    My main development is currently on <a href="https://codeberg.org/thierryjegen">CodeBerg</a> feel free to give it a visit.
+  </p>
 </p>
