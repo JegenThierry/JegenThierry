@@ -1,12 +1,19 @@
-<p align="center">
-<img src="https://i.imgur.com/0gTk16Q.png" alt="Profile" style="width:200px;"/>
-  <p align="center" style="font-size: 150%;">
-    Thierry Jegen
+<div align="center">
+  <img src="https://i.imgur.com/0gTk16Q.png" alt="Profile" width="200" />
+  
+  <h1>Thierry Jegen</h1>
+  
+  <p>Feel free to buy me a ☕.</p>
+  
+  <p>
+    <a href="https://ko-fi.com/thierryjegen">
+      <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+    </a>
   </p>
-  <p align="center">
-    I'm a Full-Stack Software Developer. With experience in both front-end and back-end development.
+
+  <p>
+    My main development is currently on 
+    <a href="https://codeberg.org/thierryjegen">Codeberg</a>. 
+    Feel free to give it a visit!
   </p>
-  <p align="center">
-    My main development is currently on <a href="https://codeberg.org/thierryjegen">CodeBerg</a> feel free to give it a visit.
-  </p>
-</p>
+</div>
