@@ -42,8 +42,16 @@ Maintaining a collection of Docker containers on a home-server.
 
 ### Github Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=JegenThierry&show_ring=false&hide_border=true&hide_title=true&border_radius=0&size=compact&hide=grade%2Ctrend%2Chours%2Cstreak)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://ghstats.dev/api/card?username=JegenThierry&show_ring=false&hide_border=true&hide_title=true&border_radius=0&size=compact&hide=grade%2Ctrend%2Chours%2Cstreak" alt="GitHub Stats Card" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://ghstats.dev/api/langs?username=JegenThierry&max_langs=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>:w
 
-![Top Languages](https://ghstats.dev/api/langs?username=JegenThierry&max_langs=6)
-
----
