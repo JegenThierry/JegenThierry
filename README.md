@@ -20,13 +20,16 @@
   <img src="https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
   <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=4169E1" alt="Docker" />
 </p>
 
 ---
 
 ### Overview
 
-Software engineer specializing in full-stack web applications at DIaLOGIKa. Maintaining a collection of Docker containers on a home-server.
+Software engineer specializing in full-stack web applications at DIaLOGIKa. 
+
+Maintaining a collection of Docker containers on a home-server.
 
 ---
 
@@ -37,7 +40,10 @@ Software engineer specializing in full-stack web applications at DIaLOGIKa. Main
 
 ---
 
-<div>
-  <h3>GitHub Stats</h3>
-  <img src="https://ghstats.dev/api/card?username=JegenThierry&show_ring=false&hide_title=true&hide=grade%2Ctrend%2Chours%2Cstreak" alt="GitHub Stats Card" />
-</div>
+### Github Stats
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=JegenThierry&show_ring=false&hide_border=true&hide_title=true&border_radius=0&size=compact&hide=grade%2Ctrend%2Chours%2Cstreak)
+
+![Top Languages](https://ghstats.dev/api/langs?username=JegenThierry&max_langs=6)
+
+---
