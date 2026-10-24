@@ -36,6 +36,7 @@ Maintaining a collection of Docker containers on a home-server.
 ### Projects
 
 - **Centsible:** A self-hosted budget planner.
+- **Liquid:** A complete rewrite of "centsible"
 - **YT DLP Web:** A self-hosted web interface for yt-dlp.
 
 ---
